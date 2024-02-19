@@ -1,0 +1,2215 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7419575378250716624
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7354326597867806841}
+  m_Layer: 0
+  m_Name: Pref_GreenHouse_B
+  m_TagString: Untagged
+  m_Icon: {fileID: 5721338939258241955, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7354326597867806841
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7419575378250716624}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 19, y: 43.19, z: 110}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6117976304728138666}
+  - {fileID: 5113161378010890104}
+  - {fileID: 5819243385784242131}
+  - {fileID: 9072455952055060110}
+  - {fileID: 1640038325901800167}
+  - {fileID: 5400155847698622552}
+  - {fileID: 6567911995374048323}
+  - {fileID: 1968364426541608245}
+  - {fileID: 1484393470295967272}
+  - {fileID: 894583842708732067}
+  - {fileID: 4525039662287312430}
+  - {fileID: 8942608498050425180}
+  - {fileID: 6081671497734139945}
+  - {fileID: 7422525431032498875}
+  - {fileID: 4898164766427768482}
+  - {fileID: 4462276984039643628}
+  - {fileID: 6219701732538203014}
+  - {fileID: 7847034954186951651}
+  - {fileID: 8712820132164355199}
+  - {fileID: 4007083638596982021}
+  - {fileID: 1594900770514086868}
+  - {fileID: 2421618658731899840}
+  - {fileID: 8665101451853984412}
+  - {fileID: 2816981820828109379}
+  - {fileID: 9076416347622331855}
+  - {fileID: 5866631326860005828}
+  - {fileID: 4273571346779032983}
+  - {fileID: 6724790761187705453}
+  - {fileID: 1214346630449778295}
+  - {fileID: 5852784541111112632}
+  - {fileID: 2198208096633799455}
+  - {fileID: 2107351960581785066}
+  - {fileID: 8210926157295323859}
+  - {fileID: 6472947016144440106}
+  - {fileID: 8224812520484072059}
+  - {fileID: 7941328297351098774}
+  - {fileID: 2384353128358732937}
+  - {fileID: 6214620935064916323}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &894583842708534991
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7354326597867806841}
+    m_Modifications:
+    - target: {fileID: 139764, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_Name
+      value: GreenHouse1_Deco_RoofPiece_A (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_RootOrder
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+--- !u!4 &894583842708732067 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+  m_PrefabInstance: {fileID: 894583842708534991}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1214346630449446939
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7354326597867806841}
+    m_Modifications:
+    - target: {fileID: 139764, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_Name
+      value: GreenHouse1_Deco_RoofPiece_A (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_RootOrder
+      value: 28
+      objectReference: {fileID: 0}
+    - target: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 14.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+--- !u!4 &1214346630449778295 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+  m_PrefabInstance: {fileID: 1214346630449446939}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1484393470295539858
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7354326597867806841}
+    m_Modifications:
+    - target: {fileID: 142990, guid: d18477f28fb30864d83758989554e271, type: 3}
+      propertyPath: m_Name
+      value: GreenHouse1_End_A (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 427706, guid: d18477f28fb30864d83758989554e271, type: 3}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 427706, guid: d18477f28fb30864d83758989554e271, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 427706, guid: d18477f28fb30864d83758989554e271, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 427706, guid: d18477f28fb30864d83758989554e271, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 59.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 427706, guid: d18477f28fb30864d83758989554e271, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 427706, guid: d18477f28fb30864d83758989554e271, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 427706, guid: d18477f28fb30864d83758989554e271, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 427706, guid: d18477f28fb30864d83758989554e271, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d18477f28fb30864d83758989554e271, type: 3}
+--- !u!4 &1484393470295967272 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 427706, guid: d18477f28fb30864d83758989554e271, type: 3}
+  m_PrefabInstance: {fileID: 1484393470295539858}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1594900770513898618
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7354326597867806841}
+    m_Modifications:
+    - target: {fileID: 160176, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_Name
+      value: GreenHouse1_Mid_A 6 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_RootOrder
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 44.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+--- !u!4 &1594900770514086868 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+  m_PrefabInstance: {fileID: 1594900770513898618}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1640038325901410741
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7354326597867806841}
+    m_Modifications:
+    - target: {fileID: 111862, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_Name
+      value: GreenHouse1_Deco_RoofPiece_B (31)
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalScale.x
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 47
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+--- !u!4 &1640038325901800167 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+  m_PrefabInstance: {fileID: 1640038325901410741}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1968364426541227623
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7354326597867806841}
+    m_Modifications:
+    - target: {fileID: 111862, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_Name
+      value: GreenHouse1_Deco_RoofPiece_B (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+--- !u!4 &1968364426541608245 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+  m_PrefabInstance: {fileID: 1968364426541227623}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2107351960581841476
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7354326597867806841}
+    m_Modifications:
+    - target: {fileID: 160176, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_Name
+      value: GreenHouse1_Mid_A 7 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_RootOrder
+      value: 31
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 29.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+--- !u!4 &2107351960581785066 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+  m_PrefabInstance: {fileID: 2107351960581841476}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2198208096633401421
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7354326597867806841}
+    m_Modifications:
+    - target: {fileID: 111862, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_Name
+      value: GreenHouse1_Deco_RoofPiece_B (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_RootOrder
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalScale.x
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 9.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 32
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.99999136
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.00038842467
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.002518105
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.0033072561
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+--- !u!4 &2198208096633799455 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+  m_PrefabInstance: {fileID: 2198208096633401421}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2384353128359106523
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7354326597867806841}
+    m_Modifications:
+    - target: {fileID: 111862, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_Name
+      value: GreenHouse1_Deco_RoofPiece_B (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_RootOrder
+      value: 36
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalScale.x
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 10.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 37
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.99999136
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.00038842467
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.002518105
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.0033072561
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+--- !u!4 &2384353128358732937 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+  m_PrefabInstance: {fileID: 2384353128359106523}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2421618658731832748
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7354326597867806841}
+    m_Modifications:
+    - target: {fileID: 139764, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_Name
+      value: GreenHouse1_Deco_RoofPiece_A (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_RootOrder
+      value: 21
+      objectReference: {fileID: 0}
+    - target: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 19.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+--- !u!4 &2421618658731899840 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+  m_PrefabInstance: {fileID: 2421618658731832748}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2816981820828498193
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7354326597867806841}
+    m_Modifications:
+    - target: {fileID: 111862, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_Name
+      value: GreenHouse1_Deco_RoofPiece_B (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_RootOrder
+      value: 23
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.9999999
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.999659
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.009078021
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.00022234836
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.02448469
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+--- !u!4 &2816981820828109379 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+  m_PrefabInstance: {fileID: 2816981820828498193}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4007083638597101143
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7354326597867806841}
+    m_Modifications:
+    - target: {fileID: 111862, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_Name
+      value: GreenHouse1_Deco_RoofPiece_B (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_RootOrder
+      value: 19
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalScale.x
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+--- !u!4 &4007083638596982021 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+  m_PrefabInstance: {fileID: 4007083638597101143}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4273571346778898117
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7354326597867806841}
+    m_Modifications:
+    - target: {fileID: 111862, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_Name
+      value: GreenHouse1_Deco_RoofPiece_B (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_RootOrder
+      value: 26
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+--- !u!4 &4273571346779032983 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+  m_PrefabInstance: {fileID: 4273571346778898117}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4462276984039533246
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7354326597867806841}
+    m_Modifications:
+    - target: {fileID: 111862, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_Name
+      value: GreenHouse1_Deco_RoofPiece_B (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_RootOrder
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 27
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+--- !u!4 &4462276984039643628 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+  m_PrefabInstance: {fileID: 4462276984039533246}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4525039662287771714
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7354326597867806841}
+    m_Modifications:
+    - target: {fileID: 139764, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_Name
+      value: GreenHouse1_Deco_RoofPiece_A (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_RootOrder
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 34.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+--- !u!4 &4525039662287312430 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+  m_PrefabInstance: {fileID: 4525039662287771714}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4898164766427878896
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7354326597867806841}
+    m_Modifications:
+    - target: {fileID: 111862, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_Name
+      value: GreenHouse1_Deco_RoofPiece_B (29)
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_RootOrder
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalScale.x
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 7.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 57
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+--- !u!4 &4898164766427768482 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+  m_PrefabInstance: {fileID: 4898164766427878896}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5113161378010667222
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7354326597867806841}
+    m_Modifications:
+    - target: {fileID: 160176, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_Name
+      value: GreenHouse1_Mid_A 11 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 9.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+--- !u!4 &5113161378010890104 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+  m_PrefabInstance: {fileID: 5113161378010667222}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5400155847698698230
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7354326597867806841}
+    m_Modifications:
+    - target: {fileID: 160176, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_Name
+      value: GreenHouse1_Mid_A 7 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 39.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+--- !u!4 &5400155847698622552 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+  m_PrefabInstance: {fileID: 5400155847698698230}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5819243385783910847
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7354326597867806841}
+    m_Modifications:
+    - target: {fileID: 139764, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_Name
+      value: GreenHouse1_Deco_RoofPiece_A (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 54.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+--- !u!4 &5819243385784242131 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+  m_PrefabInstance: {fileID: 5819243385783910847}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5852784541111170070
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7354326597867806841}
+    m_Modifications:
+    - target: {fileID: 160176, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_Name
+      value: GreenHouse1_Mid_A 10 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_RootOrder
+      value: 29
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 14.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+--- !u!4 &5852784541111112632 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+  m_PrefabInstance: {fileID: 5852784541111170070}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5866631326860124822
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7354326597867806841}
+    m_Modifications:
+    - target: {fileID: 111862, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_Name
+      value: GreenHouse1_Deco_RoofPiece_B (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_RootOrder
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalScale.x
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+--- !u!4 &5866631326860005828 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+  m_PrefabInstance: {fileID: 5866631326860124822}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6081671497733691271
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7354326597867806841}
+    m_Modifications:
+    - target: {fileID: 160176, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_Name
+      value: GreenHouse1_Mid_A 3 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_RootOrder
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 19.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+--- !u!4 &6081671497734139945 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+  m_PrefabInstance: {fileID: 6081671497733691271}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6117976304728179716
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7354326597867806841}
+    m_Modifications:
+    - target: {fileID: 160176, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_Name
+      value: GreenHouse1_Mid_A 7 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 49.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+--- !u!4 &6117976304728138666 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+  m_PrefabInstance: {fileID: 6117976304728179716}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6214620935065330225
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7354326597867806841}
+    m_Modifications:
+    - target: {fileID: 111862, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_Name
+      value: GreenHouse1_Deco_RoofPiece_B (30)
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_RootOrder
+      value: 37
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalScale.x
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 10.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 57
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.99999136
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.00038842467
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.002518105
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.0033072561
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+--- !u!4 &6214620935064916323 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+  m_PrefabInstance: {fileID: 6214620935065330225}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6219701732538398186
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7354326597867806841}
+    m_Modifications:
+    - target: {fileID: 139764, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_Name
+      value: GreenHouse1_Deco_RoofPiece_A (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_RootOrder
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+--- !u!4 &6219701732538203014 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+  m_PrefabInstance: {fileID: 6219701732538398186}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6472947016144042104
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7354326597867806841}
+    m_Modifications:
+    - target: {fileID: 111862, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_Name
+      value: GreenHouse1_Deco_RoofPiece_B (32)
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_RootOrder
+      value: 33
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalScale.x
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 7.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 47
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+--- !u!4 &6472947016144440106 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+  m_PrefabInstance: {fileID: 6472947016144042104}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6567911995373938449
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7354326597867806841}
+    m_Modifications:
+    - target: {fileID: 111862, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_Name
+      value: GreenHouse1_Deco_RoofPiece_B (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 7.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+--- !u!4 &6567911995374048323 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+  m_PrefabInstance: {fileID: 6567911995373938449}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6724790761187602751
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7354326597867806841}
+    m_Modifications:
+    - target: {fileID: 111862, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_Name
+      value: GreenHouse1_Deco_RoofPiece_B (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_RootOrder
+      value: 27
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 7.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 37
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+--- !u!4 &6724790761187705453 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+  m_PrefabInstance: {fileID: 6724790761187602751}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7422525431032073217
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7354326597867806841}
+    m_Modifications:
+    - target: {fileID: 142990, guid: d18477f28fb30864d83758989554e271, type: 3}
+      propertyPath: m_Name
+      value: GreenHouse1_End_A 1 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 427706, guid: d18477f28fb30864d83758989554e271, type: 3}
+      propertyPath: m_RootOrder
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 427706, guid: d18477f28fb30864d83758989554e271, type: 3}
+      propertyPath: m_LocalScale.z
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 427706, guid: d18477f28fb30864d83758989554e271, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 427706, guid: d18477f28fb30864d83758989554e271, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 427706, guid: d18477f28fb30864d83758989554e271, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 427706, guid: d18477f28fb30864d83758989554e271, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 427706, guid: d18477f28fb30864d83758989554e271, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 427706, guid: d18477f28fb30864d83758989554e271, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 427706, guid: d18477f28fb30864d83758989554e271, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d18477f28fb30864d83758989554e271, type: 3}
+--- !u!4 &7422525431032498875 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 427706, guid: d18477f28fb30864d83758989554e271, type: 3}
+  m_PrefabInstance: {fileID: 7422525431032073217}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7847034954187015567
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7354326597867806841}
+    m_Modifications:
+    - target: {fileID: 139764, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_Name
+      value: GreenHouse1_Deco_RoofPiece_A (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_RootOrder
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 44.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+--- !u!4 &7847034954186951651 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 462444, guid: 8285c49f490dd444382201a065d5f98b, type: 3}
+  m_PrefabInstance: {fileID: 7847034954187015567}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7941328297350709956
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7354326597867806841}
+    m_Modifications:
+    - target: {fileID: 111862, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_Name
+      value: GreenHouse1_Deco_RoofPiece_B (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_RootOrder
+      value: 35
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalScale.x
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 7.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+--- !u!4 &7941328297351098774 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+  m_PrefabInstance: {fileID: 7941328297350709956}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8210926157295152509
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7354326597867806841}
+    m_Modifications:
+    - target: {fileID: 160176, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_Name
+      value: GreenHouse1_Mid_A 6 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_RootOrder
+      value: 32
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 34.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+--- !u!4 &8210926157295323859 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+  m_PrefabInstance: {fileID: 8210926157295152509}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8224812520484113877
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7354326597867806841}
+    m_Modifications:
+    - target: {fileID: 160176, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_Name
+      value: GreenHouse1_Mid_A 6 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_RootOrder
+      value: 34
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 54.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+--- !u!4 &8224812520484072059 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+  m_PrefabInstance: {fileID: 8224812520484113877}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8665101451854157106
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7354326597867806841}
+    m_Modifications:
+    - target: {fileID: 160176, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_Name
+      value: GreenHouse1_Mid_A 8 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_RootOrder
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+--- !u!4 &8665101451853984412 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 485294, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+  m_PrefabInstance: {fileID: 8665101451854157106}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8712820132163958573
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7354326597867806841}
+    m_Modifications:
+    - target: {fileID: 111862, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_Name
+      value: GreenHouse1_Deco_RoofPiece_B (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_RootOrder
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.9999999
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 4.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.999659
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.009078021
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.00022234836
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.02448469
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+--- !u!4 &8712820132164355199 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+  m_PrefabInstance: {fileID: 8712820132163958573}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8942608498050011662
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7354326597867806841}
+    m_Modifications:
+    - target: {fileID: 111862, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_Name
+      value: GreenHouse1_Deco_RoofPiece_B (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_RootOrder
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 7.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 57
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+--- !u!4 &8942608498050425180 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+  m_PrefabInstance: {fileID: 8942608498050011662}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9072455952054662620
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7354326597867806841}
+    m_Modifications:
+    - target: {fileID: 111862, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_Name
+      value: GreenHouse1_Deco_RoofPiece_B (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalScale.x
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 7.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 37
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+--- !u!4 &9072455952055060110 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+  m_PrefabInstance: {fileID: 9072455952054662620}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9076416347622450845
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7354326597867806841}
+    m_Modifications:
+    - target: {fileID: 111862, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_Name
+      value: GreenHouse1_Deco_RoofPiece_B (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_RootOrder
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalScale.x
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 7.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+--- !u!4 &9076416347622331855 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 422738, guid: 53e8e843102523b459d75c4b0ca32ad9, type: 3}
+  m_PrefabInstance: {fileID: 9076416347622450845}
+  m_PrefabAsset: {fileID: 0}

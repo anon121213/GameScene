@@ -5,6 +5,7 @@ using UnityEngine;
 public class Cherecter : MonoBehaviour, IControleble
 {
     [SerializeField] private float _speed = 10f;
+    [SerializeField] private float _runSpeed = 13f;
     [SerializeField] private float _gravity = -9.81f;
     [SerializeField] private float _JumpHeight = 3f;
     [SerializeField] private Transform _groundCheckerPivot;
@@ -15,6 +16,7 @@ public class Cherecter : MonoBehaviour, IControleble
     private float _velocity;
     private Vector3 _moveDirection;
     private bool _isGrounded;
+    private bool _isRuning = false;
 
     private void Awake()
     {
@@ -30,7 +32,14 @@ public class Cherecter : MonoBehaviour, IControleble
             _velocity = -2f;
         }
 
-        MoveInternal();
+        if (!_isRuning)
+        {
+            MoveInternal();
+        }else
+        {
+            RunInternal();
+        }
+      
         DoGravity();
     }
 
@@ -44,7 +53,11 @@ public class Cherecter : MonoBehaviour, IControleble
     public void Move(Vector3 direction)
     {
         _moveDirection = direction;
+    }
 
+    public void Run(bool _run)
+    {
+        _isRuning = _run;
     }
 
     public void Jump()
@@ -58,6 +71,11 @@ public class Cherecter : MonoBehaviour, IControleble
     private void MoveInternal()
     {
         _controller.Move(_moveDirection * _speed * Time.fixedDeltaTime);
+    }
+
+    private void RunInternal()
+    {
+        _controller.Move(_moveDirection * _runSpeed * Time.fixedDeltaTime);
     }
 
     private void DoGravity()

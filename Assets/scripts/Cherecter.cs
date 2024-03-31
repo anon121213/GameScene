@@ -45,7 +45,7 @@ public class Cherecter : MonoBehaviour, IControleble
 
     private bool isOnTheGround()
     {
-        bool result = Physics.CheckSphere(_groundCheckerPivot.position, _checGroundRadius, _groundMask);
+        bool result = Physics.CheckSphere(_groundCheckerPivot.position, _checGroundRadius);
 
         return result;
     }

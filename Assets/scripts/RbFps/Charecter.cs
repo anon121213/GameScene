@@ -70,12 +70,12 @@ public class Charecter : MonoBehaviour, IControleble
 
     private void MoveInternal()
     {
-        _rb.MovePosition(_rb.position + _moveDirection * _speed * Time.fixedDeltaTime);
+        _rb.velocity = _moveDirection * _speed * Time.fixedDeltaTime;
     }
 
     private void RunInternal()
     {
-        _rb.MovePosition(_rb.position + _moveDirection * _runSpeed * Time.fixedDeltaTime);
+        _rb.velocity = _moveDirection * _runSpeed * Time.fixedDeltaTime;
     }
 
     private void DoGravity()

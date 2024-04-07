@@ -21,6 +21,7 @@ public class CharecterInputController : MonoBehaviour
     private Vector3 _normalDirection;
     private Vector3 _currentDirection;
     private Vector3 _currentMoveDirection = Vector3.zero;
+    private Collider[] _normalArr;
 
     private void Awake()
     {
@@ -80,10 +81,17 @@ public class CharecterInputController : MonoBehaviour
         Gizmos.color = Color.red;
         Gizmos.DrawLine(transform.position, transform.position + DirectionWithNormal(_currentDirection));
     }
-
-    private void OnCollisionEnter(Collision collision)
+    
+    private Vector3 Collision()
     {
-        _normal = collision.contacts[0].normal;
+        RaycastHit hit;
+        
+        if (Physics.SphereCast(transform.position, 0.4f, -transform.up , out hit, 10))
+        {
+            _normal = hit.normal;
+        }
+
+        return _normal;
     }
 
     private void Update()
@@ -96,6 +104,7 @@ public class CharecterInputController : MonoBehaviour
         _controleble.Move(DirectionWithNormal(_currentDirection));
         ReadMovement();
         RotateCherecter();
+        Collision();
     }
 
     private void RotateCherecter()
